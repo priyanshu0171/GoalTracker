@@ -5,10 +5,11 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "backgroundColor": "#1e085a",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/images/goal.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#311b6b"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
